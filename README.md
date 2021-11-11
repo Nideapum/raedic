@@ -11,7 +11,7 @@ pip install beautifulsoup4
 pip install request
 ```
 
-## shell (otra opción)
+### shell (otra opción)
 ```shell
 apt install python3-bs4
 ```
